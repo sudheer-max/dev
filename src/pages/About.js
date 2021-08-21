@@ -32,7 +32,7 @@ const About = () => {
                                     <div className="stats-box stat-bx-1" data-aos="fade-up" data-aos-delay="200">
                                         <span className="sub-heading mb20">Projects</span>
                                         <h3>25<span>+</span></h3>
-                                        <p className="mt20">Dev DZone Delivered the Thousands of Successful projects around the world.</p>
+                                        <p className="mt20">Dev DZone Delivered the Number of Successful projects around the world.</p>
                                     </div>
                                     <div className="stats-box stat-bx-2 mt20" data-aos="fade-up" data-aos-delay="600">
                                         <span className="sub-heading mb20">Team</span>
