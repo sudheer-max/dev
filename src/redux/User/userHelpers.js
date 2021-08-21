@@ -6,7 +6,7 @@ toast.configure();
 export const handleResetPasswordFuntion = (email) => {
 
     const config = {
-        url: 'http://localhost:3000/login'
+        url: 'https://devdzone.netlify.app/login'
     };
 
     return new Promise((resolve, reject) => {
